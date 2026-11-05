@@ -32,3 +32,15 @@ The project includes the following analyses:
 8. Best selling products by quantity
 
 Key business insights 
+- Total revenue: $9,517.39
+- Total units sold: 101
+- Average unit price: $204.32
+- Highest unit price: $899.99
+- Lowest unit price: $1.50
+- Sales by product category: Top performing category: Electronics $6,879.78, lowest performing category: Stationery: $187.78
+- Sales by region: Top performing region: North $6,049.85, lowest performing region: East $727.79
+
+  Key takeaways
+
+  This analysis show us differences in revenue across product categories and sales regions.The top performing region is North and the lowest performing region is East.Electronics generated the highest revenue and stationery generated the lowest.
+  
