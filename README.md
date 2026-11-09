@@ -41,7 +41,16 @@ Key business insights
 - Sales by region: Top performing region: North $6,049.85, lowest performing region: East $727.79
 
 SQL skills demostrated 
--
+* Create table - Creating database tables
+* SELECT - Retrieving data from a table
+* WHERE - Filtering data based on specific conditions
+* SUM() - Calculating total revenue and units sold
+* AVG() - Calculating average unit price
+* MAX() - Finding the highest unit priced
+* MIN() - Finding the lowest unit price
+* GROUP BY - Grouping sales by product category and region
+* ORDER BY - Sorting query results
+* AS - Assigning aliases to columns.
 
   Key takeaways
 
