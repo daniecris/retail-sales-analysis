@@ -40,6 +40,9 @@ Key business insights
 - Sales by product category: Top performing category: Electronics $6,879.78, lowest performing category: Stationery: $187.78
 - Sales by region: Top performing region: North $6,049.85, lowest performing region: East $727.79
 
+SQL skills demostrated 
+-
+
   Key takeaways
 
   This analysis show us differences in revenue across product categories and sales regions.The top performing region is North and the lowest performing region is East.Electronics generated the highest revenue and stationery generated the lowest.
