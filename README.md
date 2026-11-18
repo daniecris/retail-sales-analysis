@@ -59,11 +59,11 @@ SQL skills demostrated
 ## Data Visulization
 
 ### Revenue by product category
-![Revenue by product category](images/revenue_by_category.png)
+![Revenue by product category](Revenue%20by%20product%20category.png)
 
 ### Revenue by region
-![Revenue by region](images/revenue_by_region.png)
+![Revenue by region](Revenue%20by%20region.png)
 
 ### Top 5 products by revenue
-![Top 5 products by revenue](images/top_5_products.png)
+![Top 5 products by revenue](Top%205%20products%20by%20revenue.png)
 
