@@ -60,7 +60,7 @@ SQL skills demostrated
 
 ### Revenue by product category
 ![Revenue by product category](Revenue%20by%20product%20category.png)
-
+sss
 ### Revenue by region
 ![Revenue by region](Revenue%20by%20region.png)
 
