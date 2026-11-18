@@ -56,4 +56,14 @@ SQL skills demostrated
 
   This analysis show us differences in revenue across product categories and sales regions.The top performing region is North and the lowest performing region is East.Electronics generated the highest revenue and stationery generated the lowest.
 
+## Data Visulization
+
+### Revenue by product category
+![Revenue by product category](images/revenue_by_category.png)
+
+### Revenue by region
+![Revenue by region](images/revenue_by_region.png)
+
+### Top 5 products by revenue
+![Top 5 products by revenue](images/top_5_products.png)
 
